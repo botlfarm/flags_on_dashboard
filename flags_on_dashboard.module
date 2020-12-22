@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the Flags On Dashboard feature.
+ */
+
+include_once 'flags_on_dashboard.features.inc';
